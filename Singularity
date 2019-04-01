@@ -20,7 +20,7 @@ MAINTAINER darachm
     apt-get -y update
     apt-get -y install python3 python3-biopython python3-pip
 
-    #pip3 install regex
+    pip3 install regex numpy pandas jellyfish
 
 %test
 
